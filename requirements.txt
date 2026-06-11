@@ -1,0 +1,13 @@
+datasets==2.19.0
+transformers==4.40.1
+torch==2.3.0
+scikit-learn==1.4.2
+xgboost==2.0.3
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+tqdm==4.66.4
+nbformat==5.10.4
+ipykernel==6.29.4
+accelerate==0.30.1
