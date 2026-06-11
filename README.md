@@ -98,14 +98,3 @@ python scripts/bert_inference.py
 - **Fine-tuning**: DistilBERT on IMDb with AdamW, linear LR warmup, mixed-precision
 - **Regularization**: Dropout (p=0.3), L2 weight decay, early stopping
 
----
-
-## 📦 Dataset
-
-[IMDb Large Movie Review Dataset](https://huggingface.co/datasets/imdb) — 50,000 reviews (25K train / 25K test), binary sentiment (positive / negative). Auto-downloaded via `datasets` library.
-
----
-
-## 📄 License
-
-MIT License. Dataset courtesy of Stanford NLP & HuggingFace Datasets.
